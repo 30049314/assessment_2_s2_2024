@@ -1,0 +1,24 @@
+{
+    "item": "SCP-003",
+    "objectClass": "Euclid",
+    "specialContainmentProcedure": [
+        "SCP-003 must be maintained at a temperature above 35°C <br>and ideally kept over 100°C. <br>In case of power failure, <br>personnel must engage in skin contact with SCP-003-1 <br>to maintain critical temperature. <br>All personnel entering SCP-003's area must be examined <br>for body parasites and sterilized if necessary."
+    ],
+    "description": [
+        "SCP-003 consists of two components: <br>SCP-003-1, a sentient organism resembling a circuit board, <br>and SCP-003-2, a stone tablet with unknown runes. <br>SCP-003-1 grows rapidly when the temperature drops below 35°C, <br>converting matter around it and interacting with living organisms."
+    ],
+    "addendum": [
+        {
+            "title": "Addendum: 003-01",
+            "content": "SCP-003-1 is now considered sentient <br>and must be kept a minimum of 1 km from <br>[DATA EXPUNGED]."
+        },
+        {
+            "title": "Addendum: 003-03",
+            "content": "During a procedure, SCP-003-1 doubled in mass <br>and breached containment, <br>forming a humanoid shape before being re-contained."
+        },
+        {
+            "title": "Addendum: 003-05",
+            "content": "O5-10 was removed from the O5 Council <br>following containment breach. <br>M03-Gloria procedures are suspended."
+        }
+    ]
+}

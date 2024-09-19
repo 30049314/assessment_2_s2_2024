@@ -1,0 +1,14 @@
+{
+    "item": "SCP-002",
+    "objectClass": "Euclid",
+    "image": "800px-SCP002.jpg",
+    "specialContainmentProcedure": [
+        "SCP-002 is to remain connected to a suitable power supply at all times, <br>to keep it in recharging mode. <br><br>Teams including a minimum of two members <br>are required within 20 meters of SCP-002 or its containment area. <br><br>No personnel below Level 3 are permitted within SCP-002 <br>without written authorization."
+    ],
+    "description": [
+        "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³. <br>The interior appears to be a standard low-rent apartment <br>with furniture made of biological substances."
+    ],
+    "reference": [
+        "Subject responsible for the disappearances of seven personnel. <br>Tests with lab animals and cadavers <br>have failed to provoke a response in SCP-002. <br>Mulhausen Report docid:00.023.603"
+    ]
+}

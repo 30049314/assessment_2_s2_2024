@@ -1,0 +1,35 @@
+{
+    "item": "SCP-004",
+    "objectClass": "Euclid",
+    "specialContainmentProcedure": [
+        "SCP-004-2 through SCP-004-13 must not be moved off-site <br>unless escorted by two Level 4 personnel. <br>No other component of SCP-004 should be taken through SCP-004-1. <br>Level 1 clearance is needed for access, <br>while Level 4 is required for using SCP-004-2 to SCP-004-13."
+    ],
+    "description": [
+        "SCP-004 consists of an old wooden barn door (SCP-004-1) <br>and twelve rusted steel keys (SCP-004-2 to SCP-004-13). <br>The door is the entrance to an abandoned factory."
+    ],
+    "image": "SCP004_door.jpg",
+    "chronologicalHistory": [
+        "07/02/1949: <br>Three juveniles discover SCP-004 <br>and a set of rusted keys. One juvenile goes missing.",
+        "07/03/1949: <br>The severed hand of SCP-004-CAS01 is found, <br>leading to an SCP Foundation investigation."
+    ],
+    "spaceTimeAnomalies": [
+        "SCP-004 causes spatiotemporal anomalies, <br>including the reappearance of remains exactly ██ years after initial exposure. <br>SCP-004-7 opens an area larger than its physical size."
+    ],
+    "additionalNotes": [
+        "Testing reveals that ten of the keys <br>open SCP-004-1 to dimensions with altered physics. <br>Some test subjects are torn apart <br>and scattered across unknown locations."
+    ],
+    "appendix": [
+        {
+            "title": "Appendix A: Mental Health Effects of SCP-004-12",
+            "content": "Class D personnel exposed to SCP-004-12 <br>exhibit catatonic behavior and psychological trauma. <br>One survivor described seeing a massive green creature."
+        },
+        {
+            "title": "Appendix B: Additional Information",
+            "content": [
+                "Item #: SCP-004-14",
+                "Date of Discovery: 09/02/1950",
+                "SCP-004-14 is a wooden box that can be unlocked by SCP-004-7. <br>Items placed inside vanish when the lid is closed."
+            ]
+        }
+    ]
+}

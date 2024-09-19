@@ -1,0 +1,10 @@
+{
+    "item": "SCP-006",
+    "objectClass": "Safe",
+    "specialContainmentProcedure": [
+        "Secrecy is essential to prevent knowledge of SCP-006's effects. <br>Personnel interacting with SCP-006 must wear Class VI BNC suits, <br>be briefed with false information, <br>and follow strict containment protocols. <br>Liquid extraction must be approved by O5-level personnel <br>and handled with care. <br>Personnel who come into contact with SCP-006 <br>are to be terminated after studies are completed."
+    ],
+    "description": [
+        "SCP-006 is a small spring located west of Astrakhan. <br>The liquid from SCP-006, though chemically similar to mineral water, <br>has regenerative properties, enhancing DNA repair, <br>cellular duplication, and the immune system. <br>It has been shown to destroy harmful bacteria and viruses, <br>though the effects vary across different species."
+    ]
+}

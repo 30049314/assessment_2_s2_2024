@@ -1,0 +1,20 @@
+{
+    "item": "SCP-005",
+    "objectClass": "Safe",
+    "specialContainmentProcedure": [
+        "SCP-005 poses no immediate risk, <br>but requires approval from Level 4 personnel for removal from containment."
+    ],
+    "description": [
+        "SCP-005 resembles a key from the 1920s. <br>It has the unique ability to open any lock, mechanical or digital, <br>though the origin of this ability is unknown."
+    ],
+    "image": "SCP-005.jpg",
+    "additionalNotes": [
+        "SCP-005 may only be used under supervision of Level 4 personnel. <br>It is forbidden for personal use or non-essential purposes."
+    ],
+    "appendix": [
+        {
+            "title": "Appendix A: Locking Mechanism Behavior",
+            "content": "SCP-005 can open most locks, <br>but disguised locks may sometimes prevent it from working. <br>Experiments suggest SCP-005 may be tentatively classified as 'sentient,' <br>though further tests are required to confirm its cognitive abilities."
+        }
+    ]
+}

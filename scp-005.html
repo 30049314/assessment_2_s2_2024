@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Character encoding for the document -->
+    <meta charset="UTF-8">
+    <!-- Viewport settings for responsive design -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title of the page -->
+    <title>SCP-005 - SCP Foundation</title>
+    <!-- Link to the external CSS stylesheet for styling -->
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+    <!-- Main Content Area -->
+    <main class="folder">
+        <!-- Link to close the folder and return to the index page -->
+        <a href="index.html" class="folder-link"><strong>CLOSE</strong></a>
+        <!-- Navigation Menu -->
+        <nav>
+            <!-- Links to other SCP pages with the current page highlighted -->
+            <a href="home.html">HOME</a> <!-- Link to HOME page -->
+            <a href="scp-002.html">SCP-002</a> <!-- Link to SCP-002 page -->
+            <a href="scp-003.html">SCP-003</a> <!-- Link to SCP-003 page -->
+            <a href="scp-004.html">SCP-004</a> <!-- Link to SCP-004 page -->
+            <a href="scp-005.html" class="active">SCP-005</a> <!-- Current page (SCP-005) highlighted -->
+            <a href="scp-006.html">SCP-006</a> <!-- Link to SCP-006 page -->
+        </nav>
+        <div class="content">
+            <!-- Section for SCP-005 details -->
+            <section class="page">
+                <!-- Item Number and Object Class -->
+                <h1><b>Item #: </b><span id="item"></span></h1> <!-- Heading for item number, dynamically populated -->
+                <h2><b>Object Class: </b><span id="objectClass"></span></h2> <!-- Heading for object class, dynamically populated -->
+                <!-- Button to play the description using Speech API -->
+                <button id="playDescription" class="stamp-btn">Play Description</button> <!-- Button to play the description using Speech API -->
+                <!-- Special Containment Procedure section -->
+                <h3>Special Containment Procedure:</h3>
+                <p id="specialContainmentProcedure"></p> <!-- Paragraph for special containment procedure, dynamically populated -->
+                <!-- Description section -->
+                <h3>Description:</h3>
+                <p id="description"></p> <!-- Paragraph for description, dynamically populated -->
+                <!-- Image of SCP-004 -->
+                 <p class="img_align">
+                    <img id="scpImage" src="" alt="SCP Image" width="80%"> <!-- Image of SCP-005, dynamically populated -->
+                </p>
+                <!-- Additional section -->
+                <h3>Additional Notes:</h3>
+                <p id="additionalNotes"></p> <!-- Paragraph for additional notes, dynamically populated -->
+                <p id="appendix"></p> <!-- Paragraph for appendix, dynamically populated -->
+                <!-- Hidden fields for other data -->
+                <p id="reference" style="display: none;"></p> <!-- Hidden field for reference, if applicable -->
+                <p id="addendum" style="display: none;"></p> <!-- Hidden field for addendum, if applicable -->
+                <p id="chronologicalHistory" style="display: none;"></p> <!-- Hidden field for chronological history, if applicable -->
+                <p id="spaceTimeAnomalies" style="display: none;"></p> <!-- Hidden field for space-time anomalies, if applicable -->
+                <!-- Footer Section -->
+                <footer>
+                    <!-- Link to scroll back to the top of the page -->
+                    <a href="scp-005.html">
+                        <h5>Back to Top</h5> <!-- Back to top link -->
+                    </a>
+                    <!-- Footer content with copyright notice -->
+                    <h6>&copy; 2024 SCP Foundation. All rights reserved.</h6>
+                </footer>
+            </section>
+        </div>
+    </main>
+    <!-- Link to the external JavaScript file for interactivity -->
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>
